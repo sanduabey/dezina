@@ -1,0 +1,7 @@
+{
+  "name": "dezina",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
